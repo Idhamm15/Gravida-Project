@@ -220,9 +220,9 @@
 
 
 .bg-breadcrumb {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/appointment-background.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../img/white-beautiful-love-birth-people\ \(1\).jpg);
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 
@@ -377,7 +377,7 @@
 
 /*** Appointment  Start ***/
 .appointment {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/appointment-background.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../img/side-view-pregnant-woman-home-having-headache.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

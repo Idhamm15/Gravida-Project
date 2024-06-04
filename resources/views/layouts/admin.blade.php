@@ -40,9 +40,8 @@
 			<!-- Logo Header -->
 			<div class="logo-header" data-background-color="blue">
 				
-				<a href="index.html" class="logo">
-					{{-- <img src="{{url ('logo.svg')}}" alt="navbar brand" class="navbar-brand"> --}}
-                    <h1>Gravida</h1>
+				<a href="/admin" style="margin: -30px; padding-top: 10px"> 
+					<img src="{{url ('img/gravida_icons.png')}}" alt="navbar brand" class="navbar-brand" style="width: 150px; height: 120px;">
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">

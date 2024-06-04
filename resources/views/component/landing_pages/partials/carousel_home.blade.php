@@ -16,7 +16,7 @@
                         <p class="mx-md-5 fs-4 px-4 mb-5 text-dark">Website ini memuat tentang edukasi kesehatan bagi ibu hamil.</p>
                         <div class="d-flex align-items-center justify-content-center">
                             <a class="btn btn-light btn-light-outline-0 rounded-pill py-3 px-5 me-4" href="/artikel">Lihat Artikel</a>
-                            <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="/">Book Now</a>
+                            {{-- <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="/">Book Now</a> --}}
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                         <p class="mx-md-5 fs-4 px-4 mb-5 text-dark">Website ini memuat tentang edukasi kesehatan bagi ibu hamil.</p>
                         <div class="d-flex align-items-center justify-content-center">
                             <a class="btn btn-light btn-light-outline-0 rounded-pill py-3 px-5 me-4" href="/artikel">Lihat Artikel</a>
-                            <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="/">Book Now</a>
+                            {{-- <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="/">Book Now</a> --}}
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                         <p class="mx-md-5 fs-4 px-4 mb-5 text-dark">Website ini memuat tentang edukasi kesehatan bagi ibu hamil.</p>
                         <div class="d-flex align-items-center justify-content-center">
                             <a class="btn btn-light btn-light-outline-0 rounded-pill py-3 px-5 me-4" href="/artikel">Lihat Artikel</a>
-                            <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="/">Book Now</a>
+                            {{-- <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="/">Book Now</a> --}}
                         </div>
                     </div>
                 </div>

@@ -52,11 +52,11 @@
                     </div>
                 @endif
             @endforeach
-            <div class="col-12">
+            {{-- <div class="col-12">
                 <div class="services-btn text-center">
                     <a href="#" class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5">Service More</a>
                 </div>
-            </div>
+            </div> --}}
         </div>
 
     </div>

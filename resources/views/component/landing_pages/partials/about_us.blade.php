@@ -23,7 +23,7 @@
                     Kami berkomitmen untuk menciptakan komunitas yang inklusif dan mendukung, di mana setiap ibu hamil dapat merasa dihargai dan didukung. Bergabunglah dengan kami di media sosial dan forum komunitas kami untuk berbagi pengalaman, bertanya, dan belajar bersama ibu hamil lainnya.
                     Terima kasih telah mempercayai Gravida sebagai sumber informasi kesehatan Anda. Kami berharap dapat mendampingi Anda melalui setiap tahap perjalanan kehamilan Anda.
                 </p>
-                <a href="/" class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5">Explore More</a>
+                {{-- <a href="/" class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5">Explore More</a> --}}
             </div> 
         </div>
     </div>

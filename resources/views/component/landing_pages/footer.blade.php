@@ -13,12 +13,12 @@
                     <a href="" class="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
-            <div class="col-md-4 text-center text-md-end text-white">
+            {{-- <div class="col-md-4 text-center text-md-end text-white"> --}}
                 <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                 <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                 <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                Modified By <a class="border-bottom" href="https://gravidaofficial.com">Gravida Official</a> Based on Template by <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a class="border-bottom" href="https://themewagon.com">ThemeWagon</a>
-            </div>
+                {{-- Modified By <a class="border-bottom" href="https://gravidaofficial.com">Gravida Official</a> Based on Template by <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a class="border-bottom" href="https://themewagon.com">ThemeWagon</a> --}}
+            {{-- </div> --}}
         </div>
     </div>
 </div>
