@@ -7,7 +7,7 @@
                     <div class="d-flex flex-wrap">
                         <a href="#" class="me-4 text-light"><i class="fas fa-map-marker-alt text-primary me-2"></i>Semarang, Indonesia</a>
                         <a href="#" class="me-4 text-light"><i class="fas fa-phone-alt text-primary me-2"></i>+62 858-7507-6399</a>
-                        <a href="#" class="text-light"><i class="fas fa-envelope text-primary me-2"></i>admin@gravida.my.id</a>
+                        <a href="#" class="text-light"><i class="fas fa-envelope text-primary me-2"></i> gravidaku9@gmail.com</a>
                     </div>
 
                 </div>
@@ -25,7 +25,7 @@
     <div class="container-fluid bg-light">
         <div class="container px-0">
             <nav class="navbar navbar-light navbar-expand-xl">
-                <a href="index.html" class="navbar-brand">
+                <a href="" class="navbar-brand">
                     <h1 class="text-primary display-4">Gravida</h1>
                 </a>
                 <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

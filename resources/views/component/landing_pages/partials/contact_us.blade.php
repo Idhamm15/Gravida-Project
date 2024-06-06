@@ -18,7 +18,7 @@
                             <i class="fas fa-envelope fa-2x text-primary me-4"></i>
                             <div>
                                 <h4>Mail Us</h4>
-                                <p class="mb-0">admin@gravida.my.id</p>
+                                <p class="mb-0">gravidaku9@gmail.com</p>
                             </div>
                         </div>
                     </div>
